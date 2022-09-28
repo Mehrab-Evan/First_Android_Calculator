@@ -1,2 +1,2 @@
 # First_Android_Calculator
-Made this based upon previous Java GUI calculator
+My First Android Application (Android Studio)
